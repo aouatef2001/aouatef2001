@@ -61,7 +61,14 @@ const aouatef = {
 
 
 
+---
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aouatef2001&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aouatef2001&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aouatef2001&theme=tokyonight&hide_border=true)
 
 
 
