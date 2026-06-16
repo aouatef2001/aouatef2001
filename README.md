@@ -57,3 +57,49 @@ const aouatef = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 📌 Projets
+
+| **Personal Portfolio Website** |
+|---|
+| Editorial minimal portfolio with a warm off-white palette, burnt orange accents, and scroll reveal animations |
+| `HTML5` `CSS3` `JavaScript` |
+| 🔗 [Live Demo](#) · 💻 [Source Code](#) |
+
+| **Gasoil Tracker** |
+|---|
+| Frontend project deployed on GitHub Pages |
+| `HTML5` `CSS3` `JavaScript` |
+| 🔗 [Live Demo](#) · 💻 [Source Code](#) |
+
+| **OClock App** |
+|---|
+| Frontend project deployed on GitHub Pages |
+| `HTML5` `CSS3` `JavaScript` |
+| 🔗 [Live Demo](#) · 💻 [Source Code](#) |
+
+| **Category & Article Manager** |
+|---|
+| Full stack content management app (currently pending server-based deployment) |
+| `PHP` `Laravel` `MySQL` |
+| 🔄 Deployment in progress |
