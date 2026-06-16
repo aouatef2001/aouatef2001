@@ -12,3 +12,20 @@
 [![visitors](https://komarev.com/ghpvc/?username=aouatef2001&label=Visitors&color=6366f1&style=for-the-badge)]()
 
 </div>
+
+
+## 🚀 À propos de moi
+
+const aouatef = {
+  formation : "Bachelor's @ EST Ibn Tofail",
+  background: "Specialized Technician diploma in Digital Development",
+  stack     : ["HTML5", "CSS3", "JavaScript", "PHP", "Laravel", "MySQL", "Git"],
+  learning  : ["React", "Node.js", "Algorithms"],
+  projet    : "Personal Portfolio Website",
+  fun_fact  : "I love clean, minimal design",
+};
+
+
+- 🔨 Actuellement : refining my personal portfolio (editorial minimal design, scroll reveal animations)
+- 📚 J'apprends : React, Node.js, Algorithms
+- 💡 Intéressée par : clean code, modern UI/UX, full stack development
