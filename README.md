@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:ED93B1,100:D4537E&height=200&section=header&text=Aouatef%20Taouali&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=FBEAF0)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=D4537E&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%2B+Laravel+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=D4537E&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -63,7 +63,6 @@ const aouatef = {
 
 ---
 
-## 🐝 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aouatef2001/aouatef2001/output/github-contribution-grid-snake-dark.svg">
