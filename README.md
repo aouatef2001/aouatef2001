@@ -21,7 +21,7 @@ const aouatef = {
   formation : "Bachelor's @ High School of Technology Ibn Tofail",
   background: "Specialized Technician diploma in Digital Development",
   stack     : ["HTML5", "CSS3", "JavaScript", "PHP", "Laravel", "MySQL", "Git"],
-  learning  : ["React", "Node.js", "Algorithms"],
+  learning  : ["React", "Algorithms"],
   projet    : "Personal Portfolio Website",
   fun_fact  : "I love clean, minimal design",
 };
