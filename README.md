@@ -1,7 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:ED93B1,100:D4537E&height=200&section=header&text=Aouatef%20Taouali&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=FBEAF0)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:ED93B1,100:D4537E&height=200&section=header&text=Aouatef%20Taouali&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Front%20End%20Web%20Developer&descAlignY=58&descSize=18&descColor=FBEAF0)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=D4537E&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&pause=1000&color=D4537E&center=true&vCenter=true&width=700&lines=Front+End+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
